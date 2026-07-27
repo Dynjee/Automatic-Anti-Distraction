@@ -25,11 +25,11 @@ The idea is simple:
 <table>
   <tr>
     <td align="center">
-      <img src="assets/distraction-detected.png" width="400"><br>
+      <img src="images/disruptive.png" width="400"><br>
       <b>Distraction Detected</b>
     </td>
     <td align="center">
-      <img src="assets/productive-mode.png" width="400"><br>
+      <img src="images/productive.png" width="400"><br>
       <b>Productive Mode</b>
     </td>
   </tr>
