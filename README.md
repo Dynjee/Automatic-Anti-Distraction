@@ -19,7 +19,7 @@ The idea is simple:
 * Built with Rust
 
 <p align="center">
-  <img src="assets/screenshot.png" width="700">
+  <img src="images/260727_11h29m12s_screenshot.png" width="700">
 </p>
 
 ## How it works
