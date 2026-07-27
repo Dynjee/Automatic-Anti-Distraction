@@ -18,6 +18,10 @@ The idea is simple:
 * Persistent user settings
 * Built with Rust
 
+<p align="center">
+  <img src="assets/screenshot.png" width="700">
+</p>
+
 ## How it works
 
 Signal to Noise checks the active window title and compares it against your keyword list.
