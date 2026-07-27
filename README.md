@@ -22,6 +22,11 @@ The idea is simple:
   <img src="images/260727_11h29m12s_screenshot.png" width="700">
 </p>
 
+<p align="center">
+  <img src="images/distruptive.png" width="400">
+  <img src="images/productive.png" width="400">
+</p>
+
 ## How it works
 
 Signal to Noise checks the active window title and compares it against your keyword list.
